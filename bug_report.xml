@@ -1,1 +1,17 @@
 
+<n>
+
+<Bug_id>522</Bug_id>
+<Title>The "Invite a Friend" section is not showing up</Title>
+<Severity>Major</Severity>
+<Priority>Medium</Priority>
+<Environment>IPhone 6 IOS 12.5.5</Environment>
+<Precondition>app installed and signed in</Precondition>
+
+<STR>1.open the application /n 2.select the Cashback and bonuses section in the Main section
+</STR>
+
+<AR>The "Invite a Friend" section is displayed in the "How to get bonuses" section.</AR>
+<ER>"The "Invite a Friend" section is not displayed in the "How to get bonuses" section.</ER>
+
+</n>
